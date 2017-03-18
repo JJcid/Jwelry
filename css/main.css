@@ -11,6 +11,10 @@ body{
     max-width: 1300px;
 }
 
+p {
+    width :100%;
+}
+
 .contenido-lateral, .pie-pagina, .contenido{
     padding: 1em 2em;
 }
