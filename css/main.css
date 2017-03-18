@@ -11,11 +11,11 @@ body{
     max-width: 1300px;
 }
 
-.contenido, .contenido-lateral, .pie-pagina{
+.contenido-lateral, .pie-pagina, .contenido{
     padding: 1em 2em;
 }
 
-.contenido, .contenido-lateral, .pie-pagina{
+.contenido-lateral, .contenido, .pie-pagina{
     float: left;
     box-sizing: border-box;
 }
