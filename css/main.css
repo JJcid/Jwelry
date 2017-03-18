@@ -6,7 +6,7 @@
 
 body{
     background-color: white;
-    background-image: url(../imagenes/fondobody.jpg);
+    background-image: url(../imagen/fondobody.jpg);
     margin: auto;
     max-width: 1300px;
 }
@@ -22,7 +22,7 @@ body{
 
 .encabezado{
     width: 100%;
-    background-image: url(../imagenes/joyeria.jpg);
+    background-image: url(../imagen/joyeria.jpg);
     background-size: contain;
     background-color: black;
     background-position: right;
@@ -63,7 +63,7 @@ body{
     height: 2.8em;
     background-color: black;
     color: white;
-    background-image: url(../imagenes/banner.jpg);
+    background-image: url(../imagen/banner.jpg);
     background-size: cover;
     border-top: 0.4em solid #ac9b71;
     border-bottom: 0.4em solid #ac9b71;
@@ -125,7 +125,7 @@ nav ul li a:hover{
     position: relative;
     width: 100%;
     background-size: cover;
-    background-image: url(../imagenes/fondobody.jpg);
+    background-image: url(../imagen/fondobody.jpg);
 }
 
 .contenido-lateral{
@@ -153,7 +153,7 @@ nav ul li a:hover{
 }
 
 .post .articulo{
-    background-image: url(../imagenes/bodywallpaper.jpg);
+    background-image: url(../imagen/bodywallpaper.jpg);
     background-color: transparent;
     border-radius: 1em;
     height: 17em;
@@ -166,7 +166,7 @@ nav ul li a:hover{
     margin-bottom: 1em;
     color: beige;
     border-radius: 1em 1em 0em 0em;
-    background-image: url(../imagenes/banner.jpg);
+    background-image: url(../imagen/banner.jpg);
 }
 
 .post .tituloarticulo, h1{
@@ -185,34 +185,34 @@ nav ul li a:hover{
 }
 
 .post .cuerpoarticulo, #conjuntos{
-    background-image: url(../imagenes/conjuntos.jpg);
+    background-image: url(../imagen/conjuntos.jpg);
 }
 
 .post .cuerpoarticulo, #moda{
-    background-image: url(../imagenes/NewAge.jpg);
+    background-image: url(../imagen/NewAge.jpg);
 }
 
 .post .cuerpoarticulo, #relojmujer{
-    background-image: url(../imagenes/moda.jpg);
+    background-image: url(../imagen/moda.jpg);
 }
 
 .post .cuerpoarticulo, #complementos{
-    background-image: url(../imagenes/tendencias.jpg);
+    background-image: url(../imagen/tendencias.jpg);
 }
 
 .post .cuerpoarticulo, #bolsos{
-    background-image: url(../imagenes/bolsos.jpg);
+    background-image: url(../imagen/bolsos.jpg);
 }
 
 .post .cuerpoarticulo, #relojhombre{
-    background-image: url(../imagenes/relojeria.jpeg);
+    background-image: url(../imagen/relojeria.jpeg);
 }
 
 .piepagina{
     position: relative;
     clear: both;
     width: 100%;
-    background-image: url(../imagenes/banner.jpg);
+    background-image: url(../imagen/banner.jpg);
     height: 80px;
     text-align: center;
 }
@@ -259,7 +259,7 @@ a:visited{
     
     .navegation{
         width: 10%;
-        background-image:url(../imagenes/iconodesplegable.png);
+        background-image:url(../imagen/iconodesplegable.png);
         background-position: top left;
         background-size: contain;
         background-repeat: no-repeat;
@@ -280,7 +280,7 @@ a:visited{
         width: 100%;
         display:block;
         float: left;
-        background-image: url(../imagenes/banner.jpg);
+        background-image: url(../imagen/banner.jpg);
         visibility: hidden;
     }
     
@@ -327,7 +327,7 @@ a:visited{
     }
     
     .contenido{
-        background-image: url(../imagenes/fondobody.jpg);
+        background-image: url(../imagen/fondobody.jpg);
         background-size: contain;
     }
     
@@ -352,7 +352,7 @@ a:visited{
     
     .navegation{
         width: 17%;
-        background-image:url(../imagenes/iconodesplegable.png);
+        background-image:url(../imagen/iconodesplegable.png);
         background-position: top left;
         background-size: contain;
         background-repeat: no-repeat;
@@ -373,7 +373,7 @@ a:visited{
         text-align: center;
         display:block;
         float: left;
-        background-image: url(../imagenes/banner.jpg); 
+        background-image: url(../imagen/banner.jpg); 
         visibility: hidden;
         border-right: 0.3em solid #000000;
         border-left: 0.3em solid #000000;
@@ -429,7 +429,7 @@ a:visited{
     }
     
     .contenido{
-        background-image: url(../imagenes/fondobody.jpg);
+        background-image: url(../imagen/fondobody.jpg);
         background-size: contain;
     }
     
@@ -444,7 +444,7 @@ a:visited{
     
     .navegation{
         width: 20%;
-        background-image:url(../imagenes/iconodesplegable.png);
+        background-image:url(../imagen/iconodesplegable.png);
         background-position: top left;
         background-size: contain;
         background-repeat: no-repeat;
@@ -464,7 +464,7 @@ a:visited{
         text-align: center;
         display:block;
         float: left;
-        background-image: url(../imagenes/banner.jpg); 
+        background-image: url(../imagen/banner.jpg); 
         visibility: hidden;
         border-right: 0.3em solid #000000;
         border-left: 0.3em solid #000000;

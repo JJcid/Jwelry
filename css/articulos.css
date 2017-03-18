@@ -10,14 +10,14 @@
 
 body{
     box-sizing: border-box;
-    background-image: url(../imagenes/imagentitulo.jpg);
+    background-image: url(../imagen/imagentitulo.jpg);
    
 }
 
 #contenedor{
     box-sizing: content-box;
     position: relative;
-    background-image: url(../imagenes/fondobody.jpg);
+    background-image: url(../imagen/fondobody.jpg);
     height: 100%;
     width: 80%;  
 }
@@ -34,7 +34,7 @@ body{
 .arts1{
     display: inline-block;
     position: relative;
-    background-image: url(../imagenes/bodywallpaper.jpg);
+    background-image: url(../imagen/bodywallpaper.jpg);
     width: 25%;
     padding: 6em 1em 1em 1em;
     margin: 1em;
@@ -48,7 +48,7 @@ body{
     z-index: 999;
     left: -3px;
     top: 0px;
-    background-image: url(../imagenes/banner.jpg);
+    background-image: url(../imagen/banner.jpg);
     width: 100%;
     height: 3em;
     font-family: 'Great Vibes', cursive;
@@ -121,7 +121,7 @@ nav{
     margin-top: 2em;
     height: 4em;
     width: 100%;
-    background-image: url(../imagenes/banner2.jpg);
+    background-image: url(../imagen/banner2.jpg);
 }
 
 nav:hover{
